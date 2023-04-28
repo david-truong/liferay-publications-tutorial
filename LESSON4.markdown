@@ -1,6 +1,6 @@
 # Publications Tutorial
 
-## Lesson 3
+## Lesson 4
 
 In this lesson we will cover when to use @CTAware.
 
